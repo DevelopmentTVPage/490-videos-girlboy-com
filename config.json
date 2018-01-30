@@ -1,0 +1,15 @@
+{
+    "title": "Girl Boy",
+    "baseURL": "https:\/\/videos.girlboy.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758904",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "girlboy.com"
+    }
+}
